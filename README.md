@@ -73,7 +73,7 @@ The empty state shows an annotated example conversation and four starter prompts
 
 A conceptual question gets a short explanation, an everyday analogy, a small code example (with a copy button) and a check-your-understanding question.
 
-![Teaching reply](screenshots/03-teaching-reply.png)
+![Teaching reply](main/03-teaching-reply.png)
 
 ### Handed back, then teaching
 
