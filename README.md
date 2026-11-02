@@ -67,13 +67,13 @@ The empty state shows an annotated example conversation and four starter prompts
 
 | Light | Dark |
 |---|---|
-| ![Home, light](screenshots/01-home-light.png) | ![Home, dark](screenshots/02-home-dark.png) |
+| ![Home, light](/01-home-light.png) | ![Home, dark](/02-home-dark.png) |
 
 ### Teaching reply
 
 A conceptual question gets a short explanation, an everyday analogy, a small code example (with a copy button) and a check-your-understanding question.
 
-![Teaching reply](main/03-teaching-reply.png)
+![Teaching reply](/03-teaching-reply.png)
 
 ### Handed back, then teaching
 
