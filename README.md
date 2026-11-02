@@ -3,7 +3,7 @@ An AI tool made with HTML, CSS and JavaScript which only assists the user if lea
 App requires a Claude AI account. https://claude.ai/artifact/Bymm2wJpxoGxLCuL6zkbVt
 
 
-![Home screen in light mode](screenshots/01-home-light.png)
+![Home screen in light mode](/01-home-light.png)
 
 ---
 
@@ -79,11 +79,11 @@ A conceptual question gets a short explanation, an everyday analogy, a small cod
 
 Asking for a finished essay produces an amber "handed back" card with concrete next steps. When the user follows up with a real question, the app switches straight back into teaching mode. Note the tally in the sidebar updating to **1 taught / 1 handed back**.
 
-![Redirect followed by teaching](screenshots/04-redirect-then-teach.png)
+![Redirect followed by teaching](/04-redirect-then-teach.png)
 
 ### Sidebar
 
-![Sidebar close-up](screenshots/08-sidebar.png)
+![Sidebar close-up](/08-sidebar.png)
 
 ### Mobile
 
@@ -91,13 +91,13 @@ On narrow screens (below 820px) the sidebar collapses into a single status row a
 
 | Mobile, light | Mobile, dark (redirect) |
 |---|---|
-| ![Mobile home](screenshots/05-mobile-home.png) | ![Mobile redirect, dark](screenshots/06-mobile-redirect-dark.png) |
+| ![Mobile home](/05-mobile-home.png) | ![Mobile redirect, dark](/06-mobile-redirect-dark.png) |
 
 ### AI unavailable
 
 When the page is opened outside claude.ai (or the user hasn't allowed it to use Claude), the status turns red and sending a message shows a clear explanation instead of failing silently.
 
-![AI unavailable state](screenshots/07-unavailable.png)
+![AI unavailable state](/07-unavailable.png)
 
 > Screenshots were captured with headless Chromium at 2× scale. The conversations shown are example exchanges loaded for illustration.
 
